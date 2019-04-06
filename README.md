@@ -5,3 +5,6 @@ https://github.com/sumotoy/SSD_13XX
 
 download ImageConverter - link is in description
 https://github.com/mysensors/MySensorsArduinoExamples/raw/master/libraries/UTFT/Tools/ImageConverter565.exe
+
+youtube
+https://www.youtube.com/watch?v=WmTg7pOm2xA
